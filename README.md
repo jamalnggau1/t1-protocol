@@ -42,6 +42,8 @@ Jumlah ETH per transaksi
 
 Apakah ingin bolak-balik (y/n)
 
+
+
 ⚙️ Konfigurasi
 Edit langsung di file main.py:
 
